@@ -1,5 +1,5 @@
 # 📘 L’intelligence artificielle dans les PME & TPE  
-### Guide complet (150 pages) + Podcast
+### Guide complet (150 pages)
 
 ---
 
@@ -48,18 +48,6 @@ Permettre aux petites structures de :
 - Check-lists opérationnelles  
 - Outils accessibles pour PME/TPE  
 - Ressources institutionnelles (Bpifrance, INSEE, UE, OCDE)  
-
----
-
-## 🎙️ Le podcast associé
-
-Écoutez la version audio du guide :  
-🎧 [Podcast – 20 minutes pour comprendre l’IA dans les PME et TPE]
-
-Dans cet épisode, je résume les points essentiels du livre :  
-- Les erreurs à éviter  
-- Les usages concrets qui fonctionnent  
-- Comment démarrer simplement, sans budget colossal  
 
 ---
 
